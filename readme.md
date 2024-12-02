@@ -1,1 +1,1 @@
-Using the [Adevent Calander 2024](https://adventofcode.com/2024) to start learning a new program language. This year I will be using [Go](https://go.dev/). Hopefully by the end of the month I will be somewhat competent with the language.
+Using the [Advent Calander 2024](https://adventofcode.com/2024) to start learning a new program language. This year I will be using [Go](https://go.dev/). Hopefully by the end of the month I will be somewhat competent with the language.
